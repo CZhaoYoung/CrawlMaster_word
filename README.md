@@ -6,6 +6,8 @@ a word crawl master which can gather the following information: meaning, phoneti
 扇贝单词：https://www.shanbay.com/wordbook/205949/
 爬取的信息：单词、释义、音标、发音、例句及例句中文翻译
 
+
+
 学习python爬虫并实战的心得
 1、正则表达式运用
 2、json格式文件加载。
